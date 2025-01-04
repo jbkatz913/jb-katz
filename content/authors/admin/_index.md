@@ -8,7 +8,7 @@ last_name: Katz
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctoral Student ~ Sociology
+role: PhD Student ~ Sociology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -36,41 +36,23 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Acculturation and Social Integration
+  - National and Ethnic Identity
+  - Collective Memory
 
 education:
   - area: PhD Sociology
     institution: McGill University
-    date_start: 
-    date_end: 
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    
   - area: MSc Social Research Methods
     institution: London School of Economics
-    date_start: 
     date_end: 2020
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BA Political Science
     institution: Macalester College
     date_start: 
     date_end: 2016
-    summary: |
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -171,4 +153,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+JB is a PhD student in the McGill University Sociology Department and a member of the Centre for the Study of Democratic Citizenship. Prior to attending McGill, JB completed an MSc in Social Research Methods at the London School of Economics, after which he worked as a researcher with the National Opinion Research Center at the University of Chicago.   
+
+JB’s current research explores the cultural implications of migration, the role of collective memory in shaping national and ethnic identities, and the evolution of “personal culture” across the life course. Although a methodological pluralist, JB primarily draws on quantitative methods, including various regression-based techniques and relational approaches like correspondence and network analysis. His research is funded by the Fonds de Recherche du Quebec (FRQSC). 
+
