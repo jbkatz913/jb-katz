@@ -39,6 +39,7 @@ interests:
   - Acculturation and Social Integration
   - National and Ethnic Identity
   - Collective Memory
+  - Survey Methods and Statistical Modeling
 
 education:
   - area: PhD Sociology
