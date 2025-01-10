@@ -31,7 +31,7 @@ profiles:
     url: 'mailto:jordan.katz@mail.mcgill.ca'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jbkatz913
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
