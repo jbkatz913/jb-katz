@@ -10,6 +10,3 @@ main:
   - name: Projects
     url: projects/
     weight: 20
-  - name: Teaching & Presentations
-    url: teaching/
-    weight: 30
