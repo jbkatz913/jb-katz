@@ -1,5 +1,5 @@
 ---
-title: Cultural Change
+title: Measuring Cultural Change
 #date: 2023-10-26
 #external_link: 
 #tags:
