@@ -17,6 +17,9 @@ sections:
           - project
     design:
       view: article-grid
-      fill_image: true 
+      fill_image: true
       columns: 2
+      image_width: 300px # Set a max width for the images
+      image_height: auto # Ensure the height adjusts proportionally to the width
+    
 ---
