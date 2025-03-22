@@ -1,5 +1,5 @@
 ---
-title: CAnD3 Fellow
+title: CAnD3 Fellowship 2024-2025
 #date: 2023-10-26
 #external_link: 
 #tags:
